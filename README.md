@@ -83,3 +83,13 @@ Obviously you will be building the PCB or case at your own risk, but feel free t
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">BMEK Mechanical Keyboard</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://github.com/Bemeier/bmek" property="cc:attributionName" rel="cc:attributionURL">Jan Kolkmeier</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+## Seamless Top-mounted Case - RubberRotato
+
+I decided to modify the case provided by Bemeier to make it a seamless design. The case is 4mm wider and 4mm longer, the height remains the same, and it uses the standard plate and internal weight. The chamfers on the outer edge were also changed to fillets. I also included a wrist rest to match the design, it matches the angle and the height. Be warned, the wrist rest design does not account for any sort of rubber feet. Use this design at your own risk, It has not been manufactured to test for any flaws in the design.
+
+![Seamless_1](https://i.imgur.com/9myQeSg.jpg)
+![Seamless_2](https://i.imgur.com/LzvlBMv.png)
+![Seamless_3](https://i.imgur.com/pJcaTP7.jpg)
+![Seamless_WristRest](https://i.imgur.com/PXfZxaF.jpg)
+![Seamless_WristRest](https://i.imgur.com/IAPdWeQ.png)
